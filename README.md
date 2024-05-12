@@ -9,9 +9,9 @@
   <br />
   <br />
 
-  <h2 align="center">Pixology - Digital Agency Website</h2>
+  <h2 align="center">Mokka Creators - Digital Agency Website</h2>
 
-  Pixology is a fully responsive digital agency website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+  Mokka Creators is a fully responsive digital agency website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
   <a href="https://codewithsadee.github.io/pixology/"><strong>➥ Live Demo</strong></a>
 
@@ -21,7 +21,7 @@
 
 ### Demo Screeshots
 
-![Pixology Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![Mokka Creators Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
 ### Prerequisites
 
@@ -31,7 +31,7 @@ Before you begin, ensure you have met the following requirements:
 
 ### Run Locally
 
-To run **Pixology** locally, run this command on your git bash:
+To run **Mokka Creators** locally, run this command on your git bash:
 
 Linux and macOS:
 
